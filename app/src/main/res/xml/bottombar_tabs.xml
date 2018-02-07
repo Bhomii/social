@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/home"
+        icon="@drawable/home"
+        />
+    <tab
+        id="@+id/shop"
+        icon="@drawable/shop"
+        />
+    <tab
+        id="@+id/events"
+        icon="@drawable/event"
+        />
+    <tab
+        id="@+id/contact"
+        icon="@drawable/contacts"
+        />
+    <tab
+        id="@+id/feedback"
+        icon="@drawable/book"
+        />
+    <tab
+        id="@+id/syria"
+        icon="@drawable/syria"
+        />
+</tabs>

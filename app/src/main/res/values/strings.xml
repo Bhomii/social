@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Larcata</string>
+
+    <string name="url_one"> http://www.larcata.com/</string>
+    <string name="url_two">http://www.larcata.com/shop</string>
+    <string name="url_three">http://www.larcata.com/events</string>
+    <string name="url_four">http://www.larcata.com/contacts</string>
+    <string name="url_five">http://www.larcata.com/book </string>
+    <string name="url_six">http://www.larcata.com/social-feed/</string>
+</resources>

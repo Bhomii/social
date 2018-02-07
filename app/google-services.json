@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "884309474096",
+    "firebase_url": "https://laroata-fb060.firebaseio.com",
+    "project_id": "laroata-fb060",
+    "storage_bucket": "laroata-fb060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884309474096:android:58e1785dce30bd5b",
+        "android_client_info": {
+          "package_name": "bhoomii.max.larcata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884309474096-8c85sgkoqvc56v4qd4b0nebos258ae7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bhoomii.max.larcata",
+            "certificate_hash": "b2e59b9541ee898becacfa5cb5ef176b5b614ac8"
+          }
+        },
+        {
+          "client_id": "884309474096-alqc70328oss51ium8b6vq8iv9iq1cv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmDd7tSGUJV8N2W8sJTUmU4lVgCe9yv5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884309474096-alqc70328oss51ium8b6vq8iv9iq1cv5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884309474096-tf3gvit0k0gbejui1nv97c3j8b6lkh4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asad.larcata"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
